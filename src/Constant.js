@@ -19,7 +19,7 @@ import ServiceHubLogo from './assets/Project_Logo/ServiceHubLogo.png';
 import eclipseLogo from './assets/Tech_Logo/eclipse-logo.png';
 import MHStateBoardLogo from './assets/Tech_Logo/MHStateBoardLogo.png';
 import DPULogo from './assets/Tech_Logo/DPULogo.jpg';
-import KaushalyaTechLogo from './assets/Tech_Logo/KaushalyaTechLogo.png';
+import KaushalyaTechLogo from './assets/Tech_Logo/kaushalyaTechLogo.png';
 import NexappLogo from './assets/Tech_Logo/NexappLogo.jpeg';
 import IVLogo from './assets/Tech_Logo/IVLogo.jpeg';
 import HotelManagementLogo from './assets/Project_Logo/HotelManagement.png';
