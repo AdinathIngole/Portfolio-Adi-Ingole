@@ -75,8 +75,8 @@ export const SkillsInfo = [
       img: KaushalyaTechLogo,
       role: "Full-Stack Developer",
       company: "Kaushalya Tech Solutions",
-      date: "Oct-2023 - Aug-2025",
-      exp: "1 Yr 11 M",
+      date: "Oct-2023 - Sep-2025",
+      exp: "2 Yr 0 M",
       desc: "Developed dynamic and scalable web applications using the Java Spring-boot and Reactjs , handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
       skills: [
         "HTML",
